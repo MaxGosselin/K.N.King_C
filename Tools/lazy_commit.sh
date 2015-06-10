@@ -1,4 +1,5 @@
 #!/bin/sh
 
-git add ../Code/*
-git commit -m $1
+cd ~/Projects/K.N.King_C
+git add *
+git commit -m "$1"
