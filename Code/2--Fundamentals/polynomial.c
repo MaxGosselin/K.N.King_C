@@ -24,7 +24,7 @@ int expo(x, e)
 {
     int i, res = x;
 
-    for (i=0; i<e; i++) {
+    for (i=1; i<e; i++) {
         res = res * x;
     }
     
