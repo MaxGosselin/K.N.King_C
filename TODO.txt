@@ -1,1 +1,0 @@
-1.  Make a script to create new exercise/projects with the header built in and stuff.
